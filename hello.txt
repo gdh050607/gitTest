@@ -4,3 +4,4 @@ hello ok fix
 hello ok
 hello ok
 hello ok master
+hello ok hot-fix
